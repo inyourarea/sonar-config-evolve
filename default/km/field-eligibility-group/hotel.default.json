@@ -14,7 +14,10 @@
     "c_iYASalesPerson",
     "c_iYASalesPersonEmail",
     "c_onboardingStatus",
+    "c_oneMonthCaringCall",
     "c_productName",
+    "c_serviceNotes",
+    "c_sixMonthCaringCall",
     "c_startDate",
     "c_terminationReason"
   ],
