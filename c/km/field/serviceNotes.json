@@ -1,0 +1,15 @@
+{
+  "$id": "c_serviceNotes",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Please add any in life service notes here",
+  "displayName": "Service Notes",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

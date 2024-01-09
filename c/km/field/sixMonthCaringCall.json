@@ -1,0 +1,31 @@
+{
+  "$id": "c_sixMonthCaringCall",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Workflow status for six month caring call",
+  "displayName": "Six Month Caring Call",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Scheduled",
+          "textValue": "SCHEDULED"
+        },
+        {
+          "displayName": "Escalated",
+          "textValue": "ESCALATED"
+        },
+        {
+          "displayName": "Complete (Contacted)",
+          "textValue": "COMPLETE_(CONTACTED)"
+        },
+        {
+          "displayName": "Complete (No Contact)",
+          "textValue": "COMPLETE_(NO_CONTACT)"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}
